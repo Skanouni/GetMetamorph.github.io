@@ -1,5 +1,6 @@
 const dropdowns = document.querySelectorAll(".dropdown");
 const btnsDrop = document.querySelectorAll(".bloc-top");
+const plusIcon = document.querySelectorAll(".plus-icon");
 
 
 btnsDrop.forEach((btn, index) => {
